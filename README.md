@@ -22,9 +22,9 @@ v)Start Apache and MySQL modules
 
 vi)Head to 
 
-```
+``
 localhost\folder_name\
-```
+``
 
 in the browser
 
