@@ -20,13 +20,7 @@ iv)Start XAMPP control panel
 
 v)Start Apache and MySQL modules
 
-vi)Head to 
-
-``
-localhost\folder_name\
-``
-
-in the browser
+vi)Head to  ``localhost\folder_name\`` in the browser
 
 vii)Run the PHP file in the page
 
