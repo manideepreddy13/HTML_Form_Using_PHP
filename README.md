@@ -8,8 +8,8 @@ To run this project,
 i)Install XAMPP control panel
 ii)Go to
 
-''
+'''
 C:\xampp\htdocs
-''
+'''
 
 iii)Clone this project to a new folder inside the location
