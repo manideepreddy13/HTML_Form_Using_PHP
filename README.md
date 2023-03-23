@@ -6,21 +6,17 @@ This project is part of Database Management Systems Laboratory
 
 To run this project,
 
-i)Install XAMPP control panel
+1)Install XAMPP control panel.
 
-ii)Go to
+2)Go to ``C:\xampp\htdocs``.
 
-``
-C:\xampp\htdocs
-``
+3)Clone this project to a new folder inside the location.
 
-iii)Clone this project to a new folder inside the location
+4)Run XAMPP control panel.
 
-iv)Start XAMPP control panel
+5)Start Apache and MySQL modules.
 
-v)Start Apache and MySQL modules
+6)Head to  ``localhost\folder_name\`` in the browser.
 
-vi)Head to  ``localhost\folder_name\`` in the browser
-
-vii)Run the PHP file in the page
+7)Run the PHP file in the page.
 
